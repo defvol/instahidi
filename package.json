@@ -1,0 +1,17 @@
+{
+  "name": "resiliencia",
+  "description": "Real-time photo stream of disaster zones.",
+  "author": "Rod Wilhelmy <rod@wilhel.me>",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.0",
+    "jade": "*",
+    "less-middleware": "*"
+  },
+  "engine": "node 0.10.18"
+}
+
